@@ -1,1 +1,2 @@
 *.test.ts linguist-generated=true
+cov.json linguist-generated=true
